@@ -11,6 +11,12 @@ body{
     margin: 5px;
 }
 
+header{
+    height: 32px;
+    width: 32px;
+    padding: 5px;
+}
+
 section{
     display: flex;
     flex-flow: row wrap;
